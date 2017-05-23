@@ -29,6 +29,11 @@ footer {
     color: #f5f5f5;
 }
 
+.fa-custom-circle-up:before {
+    content: "\f139";
+    font-size: 48px;
+}
+
 #get-involved {
     background-color: #f5f5f5;
 }
